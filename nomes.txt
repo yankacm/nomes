@@ -1,4 +1,4 @@
-Fabíola Da Poniceno
+﻿Fabíola Da Poniceno
 Gustavo Henrique Montesião de Sousa
 Gabriel Brito
 Carlos Henrique Mantovani Sammartin de Abreu
@@ -9,4 +9,5 @@ Lourenzo Alvares Pimentel
 Hong Dehong
 Manu Cardoso
 Luana Cristina Araújo Lloyd Reis
+Flavia Carchat Maura De Lima
 Gabriela Martins Novo
